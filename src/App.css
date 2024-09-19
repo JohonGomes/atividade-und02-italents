@@ -1,0 +1,27 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  height: 450px;
+  background-color: rgb(127, 219, 144);
+  align-items: center;
+  margin: 150px auto 0;
+  border-radius: 10px;;
+}
+
+.titulo{
+  color: rgb(245, 240, 240);
+}
+
+.saudacao{
+  text-align: center;
+
+  .paragrafo{
+    text-align:center;
+    padding: 10px;
+  }
+}
+
+.aprendendo{
+  text-align: center;  
+}
